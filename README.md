@@ -8,3 +8,4 @@ En este curso vemos todos los comandos de git:
 * El flujo de trabajo de github
 * El vedadero amor por las buenas practicas
 * Trucos muy locos del profesor
+* Creado por el increible team Vida Digital
