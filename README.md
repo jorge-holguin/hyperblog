@@ -9,3 +9,4 @@ En este curso vemos todos los comandos de git:
 * El vedadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Creado por el increible team Vida Digital
+* Incluye ejemplos en Windows, Linux y Mac
