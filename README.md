@@ -10,3 +10,4 @@ En este curso vemos todos los comandos de git:
 * Trucos muy locos del profesor
 * Creado por el increible team Vida Digital
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
